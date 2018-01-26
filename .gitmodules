@@ -1,0 +1,13 @@
+[submodule "unix-privesc-check"]
+	path = unix-privesc-check
+	url = https://github.com/pentestmonkey/unix-privesc-check.git
+	branch = 1_x
+[submodule "linuxprivchecker"]
+	path = linuxprivchecker
+	url = https://github.com/sleventyeleven/linuxprivchecker.git
+[submodule "linux-exploit-suggester"]
+	path = linux-exploit-suggester
+	url = https://github.com/mzet-/linux-exploit-suggester.git
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
