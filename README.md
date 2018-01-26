@@ -9,6 +9,7 @@
 
 ```sh
 https://github.com/Kan1shka9/Linux-Privilege-Escalation.git
+git submodule init
 git submodule update
 ```
 
