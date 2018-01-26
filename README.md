@@ -5,6 +5,13 @@
 
 👤 &rarr; 🐱‍💻
 
+###### Usage
+
+```sh
+https://github.com/Kan1shka9/Linux-Privilege-Escalation.git
+git submodule update
+```
+
 ###### Credits
 
 - [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)
